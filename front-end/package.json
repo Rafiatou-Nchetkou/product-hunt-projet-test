@@ -2,7 +2,7 @@
   "name": "front-end",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rafiatou-Nchetkou.github.io/product-hunt-projet-test",
+  "homepage": "https://rafiatou-nchetkou.github.io/product-hunt-projet-test",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@craco/craco": "^7.1.0",
