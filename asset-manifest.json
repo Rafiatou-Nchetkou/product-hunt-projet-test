@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/product-hunt-projet-test/static/css/main.978c79dd.css",
-    "main.js": "/product-hunt-projet-test/static/js/main.0c63ad49.js",
+    "main.js": "/product-hunt-projet-test/static/js/main.40bfc11c.js",
     "static/media/Logo-boost.space.png": "/product-hunt-projet-test/static/media/Logo-boost.space.5db164a7244a05e08a9d.png",
     "static/media/PHGKA2024Header.png": "/product-hunt-projet-test/static/media/PHGKA2024Header.e0b8df6e6e738d08ca2a.png",
     "static/media/product-hunt.webp": "/product-hunt-projet-test/static/media/product-hunt.c34335d23d514d21fd85.webp",
@@ -17,10 +17,10 @@
     "static/media/save-svgrepo-com.svg": "/product-hunt-projet-test/static/media/save-svgrepo-com.239e7180a6a3fb6b786e849f441f029b.svg",
     "static/media/star-symbol-icon.svg": "/product-hunt-projet-test/static/media/star-symbol-icon.9fa3cf47e9e69a2acee5e5e3d1a5dee1.svg",
     "main.978c79dd.css.map": "/product-hunt-projet-test/static/css/main.978c79dd.css.map",
-    "main.0c63ad49.js.map": "/product-hunt-projet-test/static/js/main.0c63ad49.js.map"
+    "main.40bfc11c.js.map": "/product-hunt-projet-test/static/js/main.40bfc11c.js.map"
   },
   "entrypoints": [
     "static/css/main.978c79dd.css",
-    "static/js/main.0c63ad49.js"
+    "static/js/main.40bfc11c.js"
   ]
 }
