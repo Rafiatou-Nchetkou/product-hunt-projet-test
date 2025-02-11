@@ -2,6 +2,7 @@
   "name": "front-end",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Rafiatou-Nchetkou.github.io/product-hunt-projet-test",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@craco/craco": "^7.1.0",
@@ -19,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +45,7 @@
   "devDependencies": {
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-normalize": "^13.0.1",
-    "postcss-preset-env": "^10.1.3"
+    "postcss-preset-env": "^10.1.3",
+    "gh-pages": "^6.3.0"
   }
 }
