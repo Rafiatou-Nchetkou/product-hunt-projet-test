@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/product-hunt-projet-test/static/css/main.978c79dd.css",
+    "main.js": "/product-hunt-projet-test/static/js/main.0c63ad49.js",
+    "static/media/Logo-boost.space.png": "/product-hunt-projet-test/static/media/Logo-boost.space.5db164a7244a05e08a9d.png",
+    "static/media/PHGKA2024Header.png": "/product-hunt-projet-test/static/media/PHGKA2024Header.e0b8df6e6e738d08ca2a.png",
+    "static/media/product-hunt.webp": "/product-hunt-projet-test/static/media/product-hunt.c34335d23d514d21fd85.webp",
+    "static/media/search.png": "/product-hunt-projet-test/static/media/search.89b828b5f944e6d54a5b.png",
+    "static/media/53cb4d93-ee40-4938-8028-2b8d856a6429.png": "/product-hunt-projet-test/static/media/53cb4d93-ee40-4938-8028-2b8d856a6429.6c72d77e452b1a94cded.png",
+    "static/media/chart-bar-svgrepo-com.svg": "/product-hunt-projet-test/static/media/chart-bar-svgrepo-com.bc315327485c7889f785c05a1601b664.svg",
+    "static/media/google-color-svgrepo-com.svg": "/product-hunt-projet-test/static/media/google-color-svgrepo-com.c85b8e6d92755c64717dea70391e8c59.svg",
+    "static/media/linkedin-square-logo-svgrepo-com.svg": "/product-hunt-projet-test/static/media/linkedin-square-logo-svgrepo-com.3e72b148f3705b7dafbb41ae97edd492.svg",
+    "static/media/at-sign-26-svgrepo-com.svg": "/product-hunt-projet-test/static/media/at-sign-26-svgrepo-com.e9c7ae00f658e26951c15035590b5261.svg",
+    "static/media/team-3.svg": "/product-hunt-projet-test/static/media/team-3.b27ab82b66b4b7e7a9d0b7b7a299990d.svg",
+    "index.html": "/product-hunt-projet-test/index.html",
+    "static/media/app-store-svgrepo-com.svg": "/product-hunt-projet-test/static/media/app-store-svgrepo-com.805206fa0a5b15c56b4fcd92630a03b7.svg",
+    "static/media/save-svgrepo-com.svg": "/product-hunt-projet-test/static/media/save-svgrepo-com.239e7180a6a3fb6b786e849f441f029b.svg",
+    "static/media/star-symbol-icon.svg": "/product-hunt-projet-test/static/media/star-symbol-icon.9fa3cf47e9e69a2acee5e5e3d1a5dee1.svg",
+    "main.978c79dd.css.map": "/product-hunt-projet-test/static/css/main.978c79dd.css.map",
+    "main.0c63ad49.js.map": "/product-hunt-projet-test/static/js/main.0c63ad49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978c79dd.css",
+    "static/js/main.0c63ad49.js"
+  ]
+}
