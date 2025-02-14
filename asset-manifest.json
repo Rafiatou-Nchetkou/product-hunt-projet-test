@@ -1,26 +1,36 @@
 {
   "files": {
-    "main.css": "/product-hunt-projet-test/static/css/main.978c79dd.css",
-    "main.js": "/product-hunt-projet-test/static/js/main.40bfc11c.js",
+    "main.css": "/product-hunt-projet-test/static/css/main.371ab612.css",
+    "main.js": "/product-hunt-projet-test/static/js/main.62e76960.js",
     "static/media/Logo-boost.space.png": "/product-hunt-projet-test/static/media/Logo-boost.space.5db164a7244a05e08a9d.png",
     "static/media/PHGKA2024Header.png": "/product-hunt-projet-test/static/media/PHGKA2024Header.e0b8df6e6e738d08ca2a.png",
     "static/media/product-hunt.webp": "/product-hunt-projet-test/static/media/product-hunt.c34335d23d514d21fd85.webp",
     "static/media/search.png": "/product-hunt-projet-test/static/media/search.89b828b5f944e6d54a5b.png",
     "static/media/53cb4d93-ee40-4938-8028-2b8d856a6429.png": "/product-hunt-projet-test/static/media/53cb4d93-ee40-4938-8028-2b8d856a6429.6c72d77e452b1a94cded.png",
     "static/media/chart-bar-svgrepo-com.svg": "/product-hunt-projet-test/static/media/chart-bar-svgrepo-com.bc315327485c7889f785c05a1601b664.svg",
+    "static/media/play-store-svgrepo-com.svg": "/product-hunt-projet-test/static/media/play-store-svgrepo-com.73a24cf0364c818bb60b428b20fc71ff.svg",
     "static/media/google-color-svgrepo-com.svg": "/product-hunt-projet-test/static/media/google-color-svgrepo-com.c85b8e6d92755c64717dea70391e8c59.svg",
     "static/media/linkedin-square-logo-svgrepo-com.svg": "/product-hunt-projet-test/static/media/linkedin-square-logo-svgrepo-com.3e72b148f3705b7dafbb41ae97edd492.svg",
     "static/media/at-sign-26-svgrepo-com.svg": "/product-hunt-projet-test/static/media/at-sign-26-svgrepo-com.e9c7ae00f658e26951c15035590b5261.svg",
+    "static/media/link-svgrepo-com.svg": "/product-hunt-projet-test/static/media/link-svgrepo-com.d169e18b911309dddd846f20981cb7ad.svg",
     "static/media/team-3.svg": "/product-hunt-projet-test/static/media/team-3.b27ab82b66b4b7e7a9d0b7b7a299990d.svg",
     "index.html": "/product-hunt-projet-test/index.html",
+    "static/media/mail-open-alt-svgrepo-com.svg": "/product-hunt-projet-test/static/media/mail-open-alt-svgrepo-com.a93d502fbca4973ed6ec9a1959ad0fb2.svg",
+    "static/media/tag-03-svgrepo-com.svg": "/product-hunt-projet-test/static/media/tag-03-svgrepo-com.0da848860aec04266abd05e017970beb.svg",
+    "static/media/rocket-02-svgrepo-com.svg": "/product-hunt-projet-test/static/media/rocket-02-svgrepo-com.3503bfe34e391d60d4d6b1586349ac2a.svg",
+    "static/media/message-circle-chat-svgrepo-com (1).svg": "/product-hunt-projet-test/static/media/message-circle-chat-svgrepo-com (1).0cb41a8eb24ad36d75a983e1a71dd335.svg",
+    "static/media/arrow-up-right-from-square-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-up-right-from-square-svgrepo-com.f9fd7ca6fa0c2f6a5254cb4991b6e4b8.svg",
     "static/media/app-store-svgrepo-com.svg": "/product-hunt-projet-test/static/media/app-store-svgrepo-com.805206fa0a5b15c56b4fcd92630a03b7.svg",
-    "static/media/save-svgrepo-com.svg": "/product-hunt-projet-test/static/media/save-svgrepo-com.239e7180a6a3fb6b786e849f441f029b.svg",
+    "static/media/save-svgrepo-com.svg": "/product-hunt-projet-test/static/media/save-svgrepo-com.707ce05925d323e9be831c9fb2b2b5dc.svg",
+    "static/media/arrow-up-from-bracket-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-up-from-bracket-svgrepo-com.dad457ac4866107bd10f5eeb9738b8c9.svg",
+    "static/media/message-circle-svgrepo-com.svg": "/product-hunt-projet-test/static/media/message-circle-svgrepo-com.eb5fb030001287335c5dff05ee816135.svg",
     "static/media/star-symbol-icon.svg": "/product-hunt-projet-test/static/media/star-symbol-icon.9fa3cf47e9e69a2acee5e5e3d1a5dee1.svg",
-    "main.978c79dd.css.map": "/product-hunt-projet-test/static/css/main.978c79dd.css.map",
-    "main.40bfc11c.js.map": "/product-hunt-projet-test/static/js/main.40bfc11c.js.map"
+    "static/media/arrow-narrow-circle-broken-down-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-narrow-circle-broken-down-svgrepo-com.b82184def8f6c31cb24c0c35bf16d498.svg",
+    "main.371ab612.css.map": "/product-hunt-projet-test/static/css/main.371ab612.css.map",
+    "main.62e76960.js.map": "/product-hunt-projet-test/static/js/main.62e76960.js.map"
   },
   "entrypoints": [
-    "static/css/main.978c79dd.css",
-    "static/js/main.40bfc11c.js"
+    "static/css/main.371ab612.css",
+    "static/js/main.62e76960.js"
   ]
 }
