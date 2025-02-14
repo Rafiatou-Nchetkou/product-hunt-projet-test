@@ -21,8 +21,8 @@
     border-radius: 30px;
     max-width: 55%;
     width: 100%;
-    position: relative;
-    top: 20em;
+    position: absolute;
+    top: 8rem;
     max-height: auto;
 }
   

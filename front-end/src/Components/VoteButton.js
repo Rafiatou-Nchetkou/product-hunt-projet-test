@@ -84,7 +84,7 @@ export default function VoteButton({ productId, initialVotes, styleClass }) {
 
             // Incrémenter le nombre de votes
             setNumberOfVotes(prev => prev + 1);
-            setHasVoted(true); // Marquer que l'utilisateur a voté
+            setHasVoted(true); 
         } catch (err) {
             console.error('Erreur lors de l\'enregistrement du vote:', err);
         }

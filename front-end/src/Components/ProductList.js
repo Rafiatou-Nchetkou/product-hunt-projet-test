@@ -9,7 +9,7 @@ function Products() {
   const { products, loading, error } = useSelector(state => state.products); 
 
 
-  // Charger les produits au démarrage si nécessaire
+  // Charger les produits au démarrage
   useEffect(() => {
     loadProducts(dispatch);
   }, [dispatch]);

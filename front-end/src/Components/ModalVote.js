@@ -14,7 +14,7 @@ export default function ModalVote ({closeModalVote}){
     const navigate = useNavigate();
 
     const handleGoogleSignIn = async (e) => {
-        
+        // e.stopPropagation();
         try {
             const result = await signInWithPopup(auth, googleProvider);
             const user = result.user;
