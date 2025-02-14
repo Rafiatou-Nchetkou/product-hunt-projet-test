@@ -1,4 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
+import { Timestamp } from 'firebase/firestore';
 
 const initialState = {
   products: [],
@@ -11,7 +12,14 @@ const productSlice = createSlice({
   initialState,
   reducers: {
     setProducts: (state, action) => {
-      state.products = action.payload;
+       // Convertir les Timestamp en millisecondes
+       const productsWithSerializedDates = action.payload.map(product => {
+        return {
+          ...product,
+          createdDate: product.createdDate instanceof Timestamp ? product.createdDate.toMillis() : product.createdDate
+        };
+      });
+      state.products =  productsWithSerializedDates;
       return state;
     },
     setLoading: (state, action) => {
