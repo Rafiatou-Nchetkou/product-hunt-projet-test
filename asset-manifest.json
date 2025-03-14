@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/product-hunt-projet-test/static/css/main.bf9e84ad.css",
-    "main.js": "/product-hunt-projet-test/static/js/main.72b12dc6.js",
+    "main.js": "/product-hunt-projet-test/static/js/main.d0aff4ad.js",
     "static/media/PHGKA2024Header.png": "/product-hunt-projet-test/static/media/PHGKA2024Header.e0b8df6e6e738d08ca2a.png",
     "static/media/product-hunt.webp": "/product-hunt-projet-test/static/media/product-hunt.c34335d23d514d21fd85.webp",
     "static/media/chart-bar-svgrepo-com.svg": "/product-hunt-projet-test/static/media/chart-bar-svgrepo-com.bc315327485c7889f785c05a1601b664.svg",
@@ -31,10 +31,10 @@
     "static/media/search.svg": "/product-hunt-projet-test/static/media/search.b1f59e2321426da489f8cf22dcf097cd.svg",
     "static/media/arrow-narrow-circle-broken-down-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-narrow-circle-broken-down-svgrepo-com.b82184def8f6c31cb24c0c35bf16d498.svg",
     "main.bf9e84ad.css.map": "/product-hunt-projet-test/static/css/main.bf9e84ad.css.map",
-    "main.72b12dc6.js.map": "/product-hunt-projet-test/static/js/main.72b12dc6.js.map"
+    "main.d0aff4ad.js.map": "/product-hunt-projet-test/static/js/main.d0aff4ad.js.map"
   },
   "entrypoints": [
     "static/css/main.bf9e84ad.css",
-    "static/js/main.72b12dc6.js"
+    "static/js/main.d0aff4ad.js"
   ]
 }
