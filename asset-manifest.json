@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/product-hunt-projet-test/static/css/main.d5abde56.css",
-    "main.js": "/product-hunt-projet-test/static/js/main.26e1cb76.js",
+    "main.js": "/product-hunt-projet-test/static/js/main.7db84d8d.js",
     "static/media/PHGKA2024Header.png": "/product-hunt-projet-test/static/media/PHGKA2024Header.e0b8df6e6e738d08ca2a.png",
     "static/media/product-hunt.webp": "/product-hunt-projet-test/static/media/product-hunt.c34335d23d514d21fd85.webp",
     "static/media/chart-bar-svgrepo-com.svg": "/product-hunt-projet-test/static/media/chart-bar-svgrepo-com.bc315327485c7889f785c05a1601b664.svg",
@@ -32,10 +32,10 @@
     "static/media/x-social-media-black-icon.svg": "/product-hunt-projet-test/static/media/x-social-media-black-icon.fdae9d4d54841defd90e2cf6626e788c.svg",
     "static/media/arrow-narrow-circle-broken-down-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-narrow-circle-broken-down-svgrepo-com.b82184def8f6c31cb24c0c35bf16d498.svg",
     "main.d5abde56.css.map": "/product-hunt-projet-test/static/css/main.d5abde56.css.map",
-    "main.26e1cb76.js.map": "/product-hunt-projet-test/static/js/main.26e1cb76.js.map"
+    "main.7db84d8d.js.map": "/product-hunt-projet-test/static/js/main.7db84d8d.js.map"
   },
   "entrypoints": [
     "static/css/main.d5abde56.css",
-    "static/js/main.26e1cb76.js"
+    "static/js/main.7db84d8d.js"
   ]
 }
