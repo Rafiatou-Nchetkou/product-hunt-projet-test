@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/product-hunt-projet-test/static/css/main.99b99845.css",
-    "main.js": "/product-hunt-projet-test/static/js/main.50499722.js",
+    "main.css": "/product-hunt-projet-test/static/css/main.d5abde56.css",
+    "main.js": "/product-hunt-projet-test/static/js/main.26e1cb76.js",
     "static/media/PHGKA2024Header.png": "/product-hunt-projet-test/static/media/PHGKA2024Header.e0b8df6e6e738d08ca2a.png",
     "static/media/product-hunt.webp": "/product-hunt-projet-test/static/media/product-hunt.c34335d23d514d21fd85.webp",
     "static/media/chart-bar-svgrepo-com.svg": "/product-hunt-projet-test/static/media/chart-bar-svgrepo-com.bc315327485c7889f785c05a1601b664.svg",
     "static/media/play-store-svgrepo-com.svg": "/product-hunt-projet-test/static/media/play-store-svgrepo-com.73a24cf0364c818bb60b428b20fc71ff.svg",
     "static/media/google-color-svgrepo-com.svg": "/product-hunt-projet-test/static/media/google-color-svgrepo-com.c85b8e6d92755c64717dea70391e8c59.svg",
     "static/media/profile-round-1342-svgrepo-com.svg": "/product-hunt-projet-test/static/media/profile-round-1342-svgrepo-com.92ba5bffd48de8ba1cee4822679af9b2.svg",
+    "static/media/instagram-svgrepo-com.svg": "/product-hunt-projet-test/static/media/instagram-svgrepo-com.b3c4f482d4fe7fe76f5d13b862f6375a.svg",
     "static/media/linkedin-square-logo-svgrepo-com.svg": "/product-hunt-projet-test/static/media/linkedin-square-logo-svgrepo-com.3e72b148f3705b7dafbb41ae97edd492.svg",
     "static/media/at-sign-26-svgrepo-com.svg": "/product-hunt-projet-test/static/media/at-sign-26-svgrepo-com.e9c7ae00f658e26951c15035590b5261.svg",
     "static/media/link-svgrepo-com.svg": "/product-hunt-projet-test/static/media/link-svgrepo-com.d169e18b911309dddd846f20981cb7ad.svg",
@@ -24,15 +25,17 @@
     "static/media/arrow-up-from-bracket-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-up-from-bracket-svgrepo-com.dad457ac4866107bd10f5eeb9738b8c9.svg",
     "static/media/arrow-next-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-next-svgrepo-com.1835c6e0f08c061d1c928b6178e09811.svg",
     "static/media/arrow-prev-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-prev-svgrepo-com.a5dc2412e2803f0dd165d4c12dd5e41a.svg",
+    "static/media/logo-facebook-svgrepo-com.svg": "/product-hunt-projet-test/static/media/logo-facebook-svgrepo-com.137623c12d48db2457a76c73e481d3b0.svg",
     "static/media/message-circle-svgrepo-com.svg": "/product-hunt-projet-test/static/media/message-circle-svgrepo-com.eb5fb030001287335c5dff05ee816135.svg",
     "static/media/star-symbol-icon.svg": "/product-hunt-projet-test/static/media/star-symbol-icon.9fa3cf47e9e69a2acee5e5e3d1a5dee1.svg",
     "static/media/search.svg": "/product-hunt-projet-test/static/media/search.b1f59e2321426da489f8cf22dcf097cd.svg",
+    "static/media/x-social-media-black-icon.svg": "/product-hunt-projet-test/static/media/x-social-media-black-icon.fdae9d4d54841defd90e2cf6626e788c.svg",
     "static/media/arrow-narrow-circle-broken-down-svgrepo-com.svg": "/product-hunt-projet-test/static/media/arrow-narrow-circle-broken-down-svgrepo-com.b82184def8f6c31cb24c0c35bf16d498.svg",
-    "main.99b99845.css.map": "/product-hunt-projet-test/static/css/main.99b99845.css.map",
-    "main.50499722.js.map": "/product-hunt-projet-test/static/js/main.50499722.js.map"
+    "main.d5abde56.css.map": "/product-hunt-projet-test/static/css/main.d5abde56.css.map",
+    "main.26e1cb76.js.map": "/product-hunt-projet-test/static/js/main.26e1cb76.js.map"
   },
   "entrypoints": [
-    "static/css/main.99b99845.css",
-    "static/js/main.50499722.js"
+    "static/css/main.d5abde56.css",
+    "static/js/main.26e1cb76.js"
   ]
 }
